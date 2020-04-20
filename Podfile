@@ -7,5 +7,6 @@ target 'Anamika' do
 
   # Pods for Anamika
 pod 'Alamofire', '~> 4.0'
+pod 'Kingfisher', '~> 4.0'
 
 end
